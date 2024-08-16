@@ -1,2 +1,2 @@
 # WebScraping-Projects
-This is the repo for my Web Scraping Projects
+This repository is for my Web Scraping Projects
